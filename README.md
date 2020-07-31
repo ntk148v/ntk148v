@@ -1,9 +1,10 @@
 <h2 align="center">👋 Hello, there! I'm Kien</h2>
 <p align="center">
-  <a href="https://ntk148v.github.io/blog">Blog</a> •
+    <iframe src="https://giphy.com/embed/RqkYcU5CUz2Fy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-cartoon-commercial-RqkYcU5CUz2Fy">via GIPHY</a></p>
 </p>
 
 🤔  Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
 
 📊 **Weekly development breakdown**
