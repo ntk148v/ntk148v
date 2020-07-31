@@ -7,8 +7,6 @@
 
 🤔  Visitor Count
 
-<hr>
-
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
 
 <hr>
