@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello, there! I'm Kien</h2>
 <p align="center">
-    <img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif"/>
+    <img src="http://fqa.9front.org/reactorcat.gif"/>
 </p>
 
 🤔  Visitor Count
