@@ -3,9 +3,15 @@
     <img src="http://fqa.9front.org/reactorcat.gif"/>
 </p>
 
+<hr>
+
 🤔  Visitor Count
 
+<hr>
+
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
+
+<hr>
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
