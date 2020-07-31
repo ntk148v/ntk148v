@@ -1,7 +1,12 @@
-### Hi there 👋
+<h2 align="center">👋 Hello, there! I'm Kien</h2>
+<p align="center">
+  <a href="https://ntk148v.github.io/blog">Blog</a> •
+</p>
 
+🤔  Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
