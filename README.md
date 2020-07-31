@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello, there! I'm Kien</h2>
 <p align="center">
-    <iframe src="https://giphy.com/embed/RqkYcU5CUz2Fy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-cartoon-commercial-RqkYcU5CUz2Fy">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/RqkYcU5CUz2Fy/giphy.gif"  width="40" height="40"/>
 </p>
 
 🤔  Visitor Count
