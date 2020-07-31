@@ -1,16 +1,11 @@
-<h2 align="center">👋 Hello, there! I'm Kien!</h2>
-
+<h2 align="center">👋 Hello, there! I'm Kien</h2>
 <p align="center">
-    <img src="./reactorcat.gif"/>
+    <img src="http://fqa.9front.org/reactorcat.gif"/>
 </p>
-
-<hr>
 
 🤔  Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
-
-<hr>
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
