@@ -3,6 +3,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
