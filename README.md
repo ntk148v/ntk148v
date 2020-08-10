@@ -1,21 +1,24 @@
-<h2 align="center">👋 Hello, there! I'm Kien</h2>
-<p align="center">
-    <img src="http://fqa.9front.org/reactorcat.gif"/>
-</p>
+<div align="center">
 
-<hr>
+# 👋 Hello, there! I'm Kien
 
-🤔  Visitor Count
+![reactorcat](http://fqa.9front.org/reactorcat.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/ntk148v/count.svg)
+![Kien's github stats](https://github-readme-stats.vercel.app/api?username=ntk148v&count_private=true&show_icons=true&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntk148v&theme=darcula&layout=compact)
+
+</div>
 
 <hr>
 
 📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
