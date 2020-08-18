@@ -4,16 +4,16 @@
 
 ![reactorcat](http://fqa.9front.org/reactorcat.gif)
 
+<!--
 ![Kien's github stats](https://github-readme-stats.vercel.app/api?username=ntk148v&count_private=true&show_icons=true&theme=darcula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntk148v&theme=darcula&layout=compact)
-
+-->
 </div>
 
 <hr>
 
-📊 **Weekly development breakdown**
-
 <!--START_SECTION:waka-->
+📊 **Weekly development breakdown**
 ```text
 No Activity tracked this Week
 ```
