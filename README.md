@@ -13,7 +13,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-📊 **Weekly development breakdown**
 ```text
 No Activity tracked this Week
 ```
