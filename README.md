@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hello, there! I'm Kien
+<!-- # 👋 Hello, there! I'm Kien
 
-![reactorcat](http://fqa.9front.org/reactorcat.gif)
+![reactorcat](http://fqa.9front.org/reactorcat.gif) -->
+
+![hj](./images/photo_2020-12-26_11-25-16.jpg)
 
 <!--
 ![Kien's github stats](https://github-readme-stats.vercel.app/api?username=ntk148v&count_private=true&show_icons=true&theme=darcula)
