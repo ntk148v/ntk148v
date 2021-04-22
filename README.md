@@ -4,7 +4,7 @@
 
 ![reactorcat](http://fqa.9front.org/reactorcat.gif) -->
 
-![hj](./images/464cff1d-5a8a-4fea-841e-ed0dd281f0a9_rw_1920.png)
+<img src="./images/test.svg">
 
 <!--
 ![Kien's github stats](https://github-readme-stats.vercel.app/api?username=ntk148v&count_private=true&show_icons=true&theme=darcula)
