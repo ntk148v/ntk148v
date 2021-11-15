@@ -1,29 +1,14 @@
-<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=vim-horizon&show_owner=true)](https://github.com/ntk148v/vim-horizon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=neovim-config&show_owner=true)](https://github.com/ntk148v/neovim-config)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=ansitheus&show_owner=true)](https://github.com/ntk148v/ansitheus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=lets-go&show_owner=true)](https://github.com/ntk148v/lets-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=til&show_owner=true)](https://github.com/ntk148v/til)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=goignore&show_owner=true)](https://github.com/ntk148v/goignore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=dotboss&show_owner=true)](https://github.com/ntk148v/dotboss)
 
-<!-- # 👋 Hello, there! I'm Kien
-
-![reactorcat](http://fqa.9front.org/reactorcat.gif) -->
-
-<!--
-![Kien's github stats](https://github-readme-stats.vercel.app/api?username=ntk148v&count_private=true&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntk148v&theme=darcula&layout=compact)
--->
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--
-**ntk148v/ntk148v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openstack&repo=zun&show_owner=true)](https://github.com/openstack/zun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openstack&repo=kolla-ansible&show_owner=true)](https://github.com/openstack/kolla-ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=prometheus&show_owner=true)](https://github.com/prometheus/prometheus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gophercloud&repo=gophercloud&show_owner=true)](https://github.com/gophercloud/gophercloud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vCloud-DFTBA&repo=faythe&show_owner=true)](https://github.com/vCloud-DFTBA/faythe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=nomad-pack&show_owner=true)](https://github.com/hashicorp/nomad-pack)
