@@ -1,11 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=vim-horizon&show_owner=true)](https://github.com/ntk148v/vim-horizon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=neovim-config&show_owner=true)](https://github.com/ntk148v/neovim-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=ansitheus&show_owner=true)](https://github.com/ntk148v/ansitheus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=lets-go&show_owner=true)](https://github.com/ntk148v/lets-go)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=til&show_owner=true)](https://github.com/ntk148v/til)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=goignore&show_owner=true)](https://github.com/ntk148v/goignore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ntk148v&repo=dotboss&show_owner=true)](https://github.com/ntk148v/dotboss)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openstack&repo=zun&show_owner=true)](https://github.com/openstack/zun)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openstack&repo=kolla-ansible&show_owner=true)](https://github.com/openstack/kolla-ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=prometheus&show_owner=true)](https://github.com/prometheus/prometheus)
