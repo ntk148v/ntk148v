@@ -10,7 +10,7 @@
 <img align="left" height="170" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
 
 ```diff
-╭─[ubuntu] as kiennt65 in ~                                                                                                                                
+╭─[ubuntu] as kiennt65 in ~
 ╰──➤ fetch
 @@i'm kien, trying to program something@@
 + im from Vietnam
