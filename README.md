@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vCloud-DFTBA&repo=faythe&show_owner=true)](https://github.com/vCloud-DFTBA/faythe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=nomad-pack&show_owner=true)](https://github.com/hashicorp/nomad-pack) -->
 
-<div style="width:480px" align="left"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe></div>
+<img align="left" height="170" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/>
 
 ```diff
 ╭─[ubuntu] as kiennt65 in ~                                                                                                                                
