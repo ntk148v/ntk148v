@@ -12,7 +12,8 @@
 ```diff
 ╭─[ubuntu] as kiennt2609 in ~
 ╰──➤ fetch
-@@i'm kien, trying to program something@@
+@@i'm Kien (ntk148v, kiennt26, kiennt2609 - also me)@@
+- trying to program something
 + im from Vietnam
 ! i like basketball
 # and i like to "rice" linux. <3
