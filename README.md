@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vCloud-DFTBA&repo=faythe&show_owner=true)](https://github.com/vCloud-DFTBA/faythe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=nomad-pack&show_owner=true)](https://github.com/hashicorp/nomad-pack) -->
 
-<img align="left" height="170" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif" style="margin: 10px;"/>
+<!-- <img align="left" height="170" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif" style="margin: 10px;"/>
 
 ```diff
 ╭─[ubuntu] as kiennt2609 in ~
@@ -18,3 +18,15 @@
 ! i like basketball
 # and i like to "rice" linux. <3
 ```
+-->
+
+```shell
+      ___
+     (.. \      * whoami?     ntk148v/kiennt26/kiennt2609
+     (<> |      * country     Vietnam
+    //  \ \     * contact     check Contact page
+   ( |  | /|    * tech        linux, devops, cloud, containerize,
+  _/\ __)/_)                  golang, python, ...
+  \/-____\/
+```
+
