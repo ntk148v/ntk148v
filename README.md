@@ -20,13 +20,15 @@
 ```
 -->
 
-```shell
-      ___
-     (.. \      * whoami?     ntk148v/kiennt26/kiennt2609
-     (<> |      * country     Vietnam
-    //  \ \     * contact     check Contact page
-   ( |  | /|    * tech        linux, devops, cloud, containerize,
-  _/\ __)/_)                  golang, python, ...
-  \/-____\/
-```
+Kien Nguyen Tuan
+
+`ntk148v/kiennt26/kiennt2609` in social media.
+
+a curious programmer, fueled by a passion for all things open-source and a desire to learn, create, and occasionally break things
+
+kiennt2609@gmail.com
+
+https://github.com/ntk148v
+
+https://t.me/@kiennt26
 
